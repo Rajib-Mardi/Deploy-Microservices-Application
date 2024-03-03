@@ -5,4 +5,5 @@
 
 ### Project Description
 
-Created YAML file with 11 Deployment and corresponding Service manifests
+* Create  YAML file with 11 Deployment and corresponding Service manifests for all microservices of an online shop application.
+* Allthe  Services  Components are Internal Services, except the Frontend Service, which needs to be accessed from browser
