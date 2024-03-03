@@ -50,6 +50,8 @@
       ./install.sh
       ```
 
+<img src="https://github.com/Rajib-Mardi/Deploy-Microservices-Application/assets/96679708/ed7f308f-c6d1-4158-bfd5-4a66e7fa1857" width="700">
+
 * Created the Helmfile
 * Installed the Helmfile
 * Deploy Microservices with Helmfile
