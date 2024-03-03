@@ -23,3 +23,38 @@
 *  Accessed Online Shop with Browser
 
 <img src="https://github.com/Rajib-Mardi/Deploy-Microservices-Application/assets/96679708/5eed310a-0006-43eb-a56f-ec4b869cdee1" width="700">
+
+
+
+-----------------------------------------------------------------------------
+
+
+### Demo Project: 
+* Create Helm Chart for Microservices
+### Technologiesused: 
+* Kubernetes, Helm, Helmfile
+
+
+### Project Description:
+* Create 1 shared Helm Chart for all microservices, to reuse common Deployment and Service configurations for the services.
+
+* Created “microservices” Helm Chart.
+* Created values.yaml files for each microservice.
+* Created “redis” Helm Chart and values file for it.
+* created a nginx-ingress controller to act as the load balancer for access in the browser.
+* Deploy Microservices with Helm
+    * Write a script file that has all these helms installed inside the script file.
+    * execute the script file
+      ```
+      chmod u+x install.sh
+      ./install.sh
+      ```
+
+* Created the Helmfile
+* Installed the Helmfile
+* Deploy Microservices with Helmfile
+
+
+<img src="https://github.com/Rajib-Mardi/Deploy-Microservices-Application/assets/96679708/6d4dced2-df91-4e20-bedb-b346290e4ad7" width="700">
+
+
