@@ -61,6 +61,6 @@
 
 
 
-<img src="(https://github.com/Rajib-Mardi/Deploy-Microservices-Application/assets/96679708/639fc5ea-c3bd-48cd-8949-cbf32439183a" width="700">
+<img src="https://github.com/Rajib-Mardi/Deploy-Microservices-Application/assets/96679708/639fc5ea-c3bd-48cd-8949-cbf32439183a" width="700">
 
 
