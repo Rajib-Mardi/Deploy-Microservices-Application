@@ -29,7 +29,7 @@
 -----------------------------------------------------------------------------
 
 
-### Demo Project: 
+### Project: 
 * Create Helm Chart for Microservices
 ### Technologiesused: 
 * Kubernetes, Helm, Helmfile
