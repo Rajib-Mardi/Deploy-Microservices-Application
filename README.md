@@ -51,8 +51,12 @@ Services are defined for each microservice to enable communication between them 
 
 
 
-<img src="https://github.com/Rajib-Mardi/Deploy-Microservices-Application/assets/96679708/8a93f3ab-c65e-4262-9462-1955ed414395" width="700">
+<img src="https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/3514fee2-58f3-48b8-937c-ec6e94a86b75" width="700">
+
+
 
 *  Accessed Online Shop with Browser
 
-<img src="https://github.com/Rajib-Mardi/Deploy-Microservices-Application/assets/96679708/5eed310a-0006-43eb-a56f-ec4b869cdee1" width="700">
+<img src="https://github.com/Rajib-Mardi/Complete-CI-CD-Pipeline-with-EKS-and-AWS-ECR/assets/96679708/58baa7ef-707e-4a1d-a679-30c68bf3434f" width="700">
+
+
