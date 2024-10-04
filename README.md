@@ -43,7 +43,7 @@ Services are defined for each microservice to enable communication between them 
 #### Deployment Process:
 
 * Create a K8s cluster with 3 Worker Nodes on DigitalOcean (or any other cloud platform).
-* Connectto the cluster
+* Connect to the cluster
 * Create a Namespace and deployed all the micro services into it
 * create a nginx-ingress controller to act as the load balancer for access in the browser.
 
