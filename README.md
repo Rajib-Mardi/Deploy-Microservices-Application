@@ -8,6 +8,14 @@
 
 ### The application is a web-based e-commerce app where users can browse items, add them to the cart, and purchase them.
 
+
+### Architecture
+
+
+
+<img src="https://github.com/user-attachments/assets/ec367dba-2b21-4327-a082-460be7deaecf" width="700"> 
+
+
 #### Microservices Deployed:
 
 * Frontend Service: Acts as the entry point for user requests. It receives requests from the browser and forwards them to other microservices.
